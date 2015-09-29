@@ -10,4 +10,4 @@ Another simple method is to provide a link with an empty start point e.g. like
 
 [https://graphhopper.com/maps/?point=&point=berlin](https://graphhopper.com/maps/?point=&point=berlin) 
 
-which zooms in the destination and allows the user to insert the destination directly on GraphHopper Maps.
+which zooms in the destination and allows the user to insert his start location directly on GraphHopper Maps with address suggestions.
